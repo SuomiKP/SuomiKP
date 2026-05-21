@@ -70,8 +70,8 @@ I hope to build practical systems that are not only technically feasible but als
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- Email: suomikp@carpkingdom.com 
+- GitHub: https://github.com/SuomiKP
 <!--
 **SuomiKP/SuomiKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
